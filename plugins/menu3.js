@@ -566,7 +566,7 @@ const listMessage = {
         //await conn.sendMessage(m.chat, message, m, { mentionedJid: [m.sender] })
         
     //------------------- BUTTON VID
-     await conn.sendButtonGif(m.chat, text.trim(), wm, { url: global.giflogo }, btn, knimg)
+     //await conn.sendButtonGif(m.chat, text.trim(), wm, { url: global.giflogo }, btn, knimg)
         }
     
   } catch (e) {
