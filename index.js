@@ -16,12 +16,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐\nMD', {
+say('Xhimmer\nMD', {
   font: 'block',
   align: 'center',
   colors: ['red']
 })
-say(`xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐ By @${global.nameown}`, {
+say(`xhimmer By @${global.nameown}`, {
   font: 'console',
   align: 'center',
   colors: ['green']
