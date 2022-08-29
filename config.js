@@ -120,7 +120,6 @@ global.thumb2 = 'https://telegra.ph/file/99ba21696220ccffbf790.jpg' //Thumbnail 
 global.thumbbc = 'https://telegra.ph/file/0a901e07ff14a97de9c67.jpg' //Image Bcgcb
 global.giflogo = 'https://telegra.ph/file/8ace5460d97b5a575a248.jpg' //Bebas
 global.intro = 'https://telegra.ph/file/c96780f3d897a07357481.jpg' //Tambahan Doang
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //Juga Tambahan
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 //global.fla Jangan di ganti
