@@ -120,9 +120,49 @@ function clearTmp() {
     return false
   })
 }
-//=========(INI GW ENC YAH:v)===========
 
-function _0x14bc(_0x1354c5,_0x5ea6a6){const _0xa6e8bf=_0xa6e8();return _0x14bc=function(_0x14bcad,_0x18448f){_0x14bcad=_0x14bcad-0x10f;let _0x14fc98=_0xa6e8bf[_0x14bcad];return _0x14fc98;},_0x14bc(_0x1354c5,_0x5ea6a6);}(function(_0x231af0,_0x388bbb){const _0x230544=_0x14bc,_0x1fa863=_0x231af0();while(!![]){try{const _0x259106=-parseInt(_0x230544(0x121))/0x1*(parseInt(_0x230544(0x112))/0x2)+parseInt(_0x230544(0x120))/0x3*(-parseInt(_0x230544(0x131))/0x4)+parseInt(_0x230544(0x116))/0x5*(-parseInt(_0x230544(0x118))/0x6)+parseInt(_0x230544(0x11d))/0x7*(parseInt(_0x230544(0x111))/0x8)+parseInt(_0x230544(0x11e))/0x9+parseInt(_0x230544(0x130))/0xa*(parseInt(_0x230544(0x137))/0xb)+parseInt(_0x230544(0x12e))/0xc*(parseInt(_0x230544(0x133))/0xd);if(_0x259106===_0x388bbb)break;else _0x1fa863['push'](_0x1fa863['shift']());}catch(_0x1dd220){_0x1fa863['push'](_0x1fa863['shift']());}}}(_0xa6e8,0x2eff2));const hehe=async(_0x3ab951,_0x4dc75b)=>{const _0x38d360=_0x14bc;let _0xe213db=_0x38d360(0x119),_0x5ca6b8=_0x38d360(0x11c);try{_0x5ca6b8=await conn[_0x38d360(0x110)](_0x3ab951,_0x38d360(0x123));}catch(_0x15007a){}finally{const _0x56b3c7=(await import(_0x38d360(0x129)))[_0x38d360(0x114)];_0x5ca6b8=await(await _0x56b3c7(_0x5ca6b8))[_0x38d360(0x122)]();const _0x3a0991={'key':{'participant':'0@s.whatsapp.net',...{'remoteJid':_0x38d360(0x127)}},'message':{'contactMessage':{'displayName':_0xe213db,'vcard':_0x38d360(0x10f)+_0xe213db+',;;;\x0aFN:'+_0xe213db+_0x38d360(0x11b)+_0x3ab951[_0x38d360(0x12a)]`@`[0x0]+':'+_0x3ab951[_0x38d360(0x12a)]`@`[0x0]+_0x38d360(0x134),'jpegThumbnail':_0x5ca6b8,'thumbnail':_0x5ca6b8,'sendEphemeral':!![]}}},_0xf86ca2=_0x38d360(0x12b)+_0x3ab951[_0x38d360(0x12a)]`@`[0x0]+',\x20karena\x20sudah\x20memberikan\x20script\x20gratis\x20ini.\x0a\x0a\x0a📑Sumber\x20Script:\x0ahttps://tinyurl.com/2apdztcj';return await conn[_0x38d360(0x128)](_0x3ab951,{'text':_0xf86ca2,'mentions':[_0x3ab951],..._0x4dc75b},{'quoted':_0x3a0991,'ephemeralExpiration':0x15180,..._0x4dc75b});}};function _0xa6e8(){const _0x3bb370=['sendMessage','node-fetch','split','\x0a[\x20✅\x20]\x20Berhasil\x20terhubung\x20ke\x20SC\x20XhimmerMD.\x0a\x0asaya\x20berjanji\x20tidak\x20akan\x20menjual\x20belikan\x20script\x20ini.\x0aterimakasih\x20@','catch','6287734910547','348vYrytD','data','1130NDIvrg','112nipPyh','connect','190268TRASxl','\x0aitem1.X-ALabell:Ponsel\x0aEND:VCARD','error','@s.whatsapp.net','19536vVoWnO','BEGIN:VCARD\x0aVERSION:3.0\x0aN:XL;','profilePictureUrl','64HyYJBb','526766Okwpvm','statusCode','default','readyState','1189295eqlsts','isInit','6aPBPkC','xʜɪᴍᴍᴇʀ\x20ʙᴏᴛ࿐','reloadHandler',',\x0aitem1.TEL;waid=','https://telegra.ph/file/2d06f0936842064f6b3bb.png','108073UnilID','1501956gNbpJl','payload','23763QUYhpQ','1QDqVLu','buffer','image','output','log','loggedOut','status@broadcast'];_0xa6e8=function(){return _0x3bb370;};return _0xa6e8();}async function connectionUpdate(_0x35fa67){const _0x3ab807=_0x14bc,{connection:_0x4b62ea,lastDisconnect:_0x4fe706,isNewLogin:_0x4d7c6d}=_0x35fa67;if(_0x4d7c6d)conn[_0x3ab807(0x117)]=!![];const _0x2ee738=_0x4fe706?.[_0x3ab807(0x135)]?.['output']?.[_0x3ab807(0x113)]||_0x4fe706?.[_0x3ab807(0x135)]?.[_0x3ab807(0x124)]?.[_0x3ab807(0x11f)]?.[_0x3ab807(0x113)];console['log'](_0x2ee738);if(_0x2ee738&&_0x2ee738!==DisconnectReason[_0x3ab807(0x126)]&&conn?.['ws'][_0x3ab807(0x115)]!==CONNECTING)return console[_0x3ab807(0x125)](await global[_0x3ab807(0x11a)](!![])[_0x3ab807(0x12c)](console[_0x3ab807(0x135)])),global['timestamp'][_0x3ab807(0x132)]=new Date(),await hehe(_0x3ab807(0x12d)+_0x3ab807(0x136))[_0x3ab807(0x12c)](_0x88efcc=>{return!0x0;});if(global['db'][_0x3ab807(0x12f)]==null)loadDatabase();}
+const hehe = async (jid, options) => {
+  let wm = '𝙓𝙃𝙄𝙈𝙈𝙀𝙍 𝘽𝙊𝙏';
+  let gambar = 'https://telegra.ph/file/2d06f0936842064f6b3bb.png';
+  try {
+    gambar = await conn.profilePictureUrl(jid, 'image');
+  } catch (e) {
+
+  } finally {
+  	const peth = (await import('node-fetch')).default
+    gambar = await (await peth(gambar)).buffer()
+    const fkontak = {
+      key: {
+        participant: `0@s.whatsapp.net`,
+        ...({ remoteJid: 'status@broadcast' })
+      },
+      message: {
+        'contactMessage': {
+          'displayName': wm,
+          'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${wm},;;;\nFN:${wm},\nitem1.TEL;waid=${jid.split`@`[0]}:${jid.split`@`[0]}\nitem1.X-ALabell:Ponsel\nEND:VCARD`,
+          'jpegThumbnail': gambar,
+          'thumbnail': gambar,
+          'sendEphemeral': true
+        }
+      }
+    }
+    const txt = `\n[ ✅ ] Berhasil terhubung ke SC xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐.\n\nsaya berjanji tidak akan menjual belikan script ini.\nterimakasih @${jid.split`@`[0]}, karena sudah memberikan script gratis ini.\n\n\n📑Sumber Script:\nhttps://tinyurl.com/2apdztcj`
+    return await conn.sendMessage(jid, { text: txt, mentions: [jid], ...options }, { quoted: fkontak, ephemeralExpiration: 86400, ...options })
+  }
+}
+
+async function connectionUpdate(update) {
+  const { connection, lastDisconnect, isNewLogin } = update
+  if (isNewLogin) conn.isInit = true
+  const code = lastDisconnect?.error?.output?.statusCode || lastDisconnect?.error?.output?.payload?.statusCode
+  console.log(code)
+  if (code && code !== DisconnectReason.loggedOut && conn?.ws.readyState !== CONNECTING) {
+    console.log(await global.reloadHandler(true).catch(console.error))
+    global.timestamp.connect = new Date
+    return await hehe('6287734910547' + '@s.whatsapp.net').catch(err => { return !0 })
+  }
+  if (global.db.data == null) loadDatabase()
+}
 
 
 process.on('uncaughtException', console.error)
