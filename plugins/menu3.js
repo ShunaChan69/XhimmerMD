@@ -299,7 +299,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let usrs = db.data.users[m.sender]
 let tek = `
 ───────[ DASHBOARD ]───────
-http://bīt.ly/ByMr.Iqbalᯤ*
+http://bīt.ly/ByVinz࿐*
 ${ucapan()}  ${await conn.getName(m.sender)}
 
         *〔 llı INFO BOT ıll 〕*
