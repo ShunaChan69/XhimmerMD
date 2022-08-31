@@ -11,7 +11,7 @@ let text = `〔 Dᴏɴ'ᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕
 ╰──────────···───╮
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: '❗ YouTube ❗', url: 'gapunya youtube awoakowkaoak'}},
+    {index: 1, urlButton: {displayText: 'Qris', url: 'https://telegra.ph/file/6f186834d560f2bc3b89b.jpg'}},
     {index: 2, urlButton: {displayText: '💬 Instagram 💬', url: sig}},
     {index: 3, urlButton: {displayText: '🌎 Official Group 🌎', url: sgc}},
     {index: 4, quickReplyButton: {displayText: 'Menu', id: '.menu'}},
