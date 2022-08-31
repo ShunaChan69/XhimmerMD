@@ -40,7 +40,7 @@
 
 ---------
 
-## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@ShionMDv/Shion-QR-Code?v=1)
+## 🙂➾ [AMBIL SESSION DISINI!](https://replit.com/@ShionMDv/Shion-QR-Code?v=1)
 
 -----------
 #### KELEBIHAN 📍
