@@ -81,10 +81,6 @@
 - Bot Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
 ---------
 
-Kalo Males Scan Di Termux Nih Gw Kasih Simple
-<a href="https://shikimoriqr.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="100" />
----------
-
 ## ```Heroku Buildpack```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
 
@@ -137,7 +133,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & FANGZ BOT-MD]
+[ INSTALLING NODEJS & VINZ BOT]
 
 ```bash
 ubuntu
