@@ -3,7 +3,7 @@ let info = `
      Version
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', ' *Bot Ini Gk Gw Jual❗ Sewa Aja* ', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', ' *V6 Jarang Update, Mau kuliah😩* ', 'status@broadcast')
 }
 handler.help = ['cekversi']
 handler.tags = ['info']
