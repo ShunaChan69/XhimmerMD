@@ -241,23 +241,23 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 3. Follow Github !
 4. Jangan salah gunakan script ini!
 5. Jangan lupa Subscribe Youtube
-6. Jika ada eror di sc hub Fangz
+6. Jika ada eror di sc hub Team AngelDarkz
 
 ---------
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Fangzbotz2007)
-* [`My parents`](https://github.com/Fangzbotz2007)
-* [`All Friends`](https://github.com/Fangzbotz2007)
-* [`All Contributors`](https://github.com/Fangzbotz2007)
-* [`All Creator Bot`](https://github.com/Fangzbotz2007)
+* [`Allah SWT`]
+* [`My parents`](https://github.com/ShionMDv)
+* [`All Friends`](DevKgw, KyamiCyx, Ahmad)
+* [`All Contributors`]
+* [`All Creator Bot`]
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
 
 ## ```Recode By 💌```
-[![Fangz BOT] [Vinz](https://github.com/Fangzbotz2007.png?size=100)](https://github.com/ShionMDv.png?size=100)
+[![Vinz BOT] [Vinz](https://github.com/ShionMDv.png?size=100)](https://github.com/ShionMDv.png?size=100)
 
 ## ```Contributor 📣```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
