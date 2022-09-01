@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
- <a href="#"><img title="VinzBOT" src="https://img.shields.io/badge/VINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐" src="https://img.shields.io/badge/VINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-FANGZ-blue.svg?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-KyamiCyx-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/Fangzbotz2007/KaiZax
-<a href="https://github.com/Fangzbotz2007/Ayane45121
-<a href="https://github.com/Fangzbotz2007/FangzBOT
+<a href="https://github.com/KaiZax
+<a href="https://github.com/Ayane45121
+<a href="https://github.com/ShionMDv
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
@@ -40,7 +40,7 @@
 
 ---------
 
-## 🙂➾ [AMBIL SESSION DISINI!](https://replit.com/@ShionMDv/Shion-QR-Code?v=1)
+## 🔥➾ [AMBIL SESSION DISINI TOD!](https://replit.com/@ShionMDv/Shion-QR-Code?v=1)
 
 -----------
 #### KELEBIHAN 📍
@@ -76,9 +76,9 @@
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/ShionMDv/XhimmerMD/config.js#L1)
+- Owner Name [Here](https://github.com/ShionMDv/XhimmerMD/config.js#L1)
+- Bot Name [Here](https://github.com/ShionMDv/XhimmerMD/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
@@ -96,8 +96,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-$ cd FangzBOT-MD-master
+$ git clone https://github.com/ShionMDv/XhimmerMD.git
+$ cd XhimmerMD
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -139,8 +139,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-cd FangzBOT-MD-master
+git clone https://github.com/ShionMDv/XhimmerMD.git
+cd XhimmerMD
 npm install
 npm update
 ```
@@ -155,8 +155,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-cd FangzBOT-MD-master
+git clone https://github.com/ShionMdv/XhimmerMD
+cd XhimmerMD
 npm install
 npm update
 ```
@@ -166,7 +166,7 @@ npm update
 ## Run 📛
 
 ```bash
-node .
+node . (Rekomendasi pake pm2 start index.js aja)
 ```
 
 ---------
