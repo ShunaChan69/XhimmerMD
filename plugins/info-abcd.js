@@ -5,7 +5,7 @@ let Reg = /\|?(.)([.|] *?)([0-9])$/i
 
 let handler = async function (m, { text, usedPrefix, command }) {
 
-let info = `❏ 📮 Script xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐\n│• Script :\n│↳ Di GH Gua Ada Ntol\n│• Node_Modules:\n│↳ https://semawur.com/mwuPPdYT\n│↳ Ato tekan npm  i/yarn install di termux\n│• Base : \n│↳ github.com/bochilgaming/games-wabot-md/\n┗──────────═┅═──────────\n\n📍 N o t e : \n• BOT FREE FOR ALL!\n• Jangan Lupa kasih star, follow & kasih credit\n• Dilarang menjual Script Ini!\n• Jika menemukan bug di script, harap lapor owner\n• Github SmileyBotz: https://github.com/ShionMDv Jangan, lupa follow github\n• Bot ini free untuk digunakan di grup ini, kalo mau memasukan Bot ke grup lain minta izin owner dulu dgn cara BERDONASI:v`
+let info = `❏ 📮 Script xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐\n│• Script :\n│↳ Di GH Gua Ada Ntol\n│• Node_Modules:\n│↳ https://semawur.com/mwuPPdYT\n│↳ Ato tekan npm  i/yarn install di termux\n│• Base : \n│↳ github.com/bochilgaming/games-wabot-md/\n┗──────────═┅═──────────\n\n📍 N o t e : \n• BOT FREE FOR ALL!\n• Jangan Lupa kasih star, follow & kasih credit\n• Dilarang menjual Script Ini!\n• Jika menemukan bug di script, harap lapor owner\n• Github xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐: https://github.com/ShionMDv Jangan, lupa follow github\n• Bot ini free untuk digunakan di grup ini, kalo mau memasukan Bot ke grup lain minta izin owner dulu dgn cara BERDONASI:v`
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
@@ -22,7 +22,7 @@ let buttonMessage= {
 'mediaUrl':global.sig,
 'mediaType':2,
 'previewType':'pdf',
-'title':'𝗦𝗺𝗶𝗹𝗲𝘆𝗕𝗼𝘁𝘇~',
+'title':'xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐',
 'body':global.titlebot,
 'thumbnail':await(await fetch(mwife)).buffer(),
 'sourceUrl':'https://www.instagram.com/_alv.stn'}},
