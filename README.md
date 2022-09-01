@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
- <a href="#"><img title="xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐" src="https://img.shields.io/badge/VINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐" src="https://img.shields.io/badge/xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-KyamiCyx-blue.svg?style=for-the-badge&logo=github"></a>
@@ -240,8 +240,8 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 2. Sebelum pakai jangan lupa kasih star
 3. Follow Github !
 4. Jangan salah gunakan script ini!
-5. Jangan lupa Subscribe Youtube
-6. Jika ada eror di sc hub Team AngelDarkz
+5. Jangan lupa Foll Ig Saya!
+6. Jika ada eror di sc hub Saya!
 
 ---------
 
