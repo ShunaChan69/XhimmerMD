@@ -235,9 +235,9 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	rows: [
 	    {title: `┊📛┊Info Bot`, rowId: ".info", description: "✧ Info xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐"},
 	    {title: `┊💌┊Owner`, rowId: ".owner", description: "✧ Ini Room Developer❗"},
-	{title: `┊🗣┊Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
-	{title: ` ┊📊┊Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
-	{title: `┊⚡┊Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 Sullivan - BOT..."},
+	{title: `┊🗣┊Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐"},
+	{title: ` ┊📊┊Test Speed`, rowId: ".testspeed", description: "✧ Test Speed xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐"},
+	{title: `┊⚡┊Speed`, rowId: ".speed", description: "✧ Kecepatan Respon xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐"},
 	]
     },{
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
