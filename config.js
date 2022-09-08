@@ -167,7 +167,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = 'xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐'
-global.stickauth = `© Vinz\nCyx by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickauth = `© Vinz Cyx`
 
 global.multiplier = 38 // The higher, The harder levelup
 
