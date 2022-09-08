@@ -1,6 +1,6 @@
 /*let handler = async(m, { conn, args, usedPrefix }) => {
 	
-let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
+/*let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┃
 ┃⬡ Mode : Public
 ┃⬡ Jam : -
