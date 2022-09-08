@@ -3,7 +3,7 @@ let handler = async (m, { conn, args, command }) => {
 let totalf = Object.values(global.plugins).filter(
     (v) => v.help && v.tags
   ).length;
- await conn.sendButton(m.chat, `_🎐Pilih Mode bot nya tod❗\n_Off atau On di group_\n`,wm + '\n\n' + botdate, thumbdoc, [['😠ON','.boton'],['😱OFF','botoff']], m, {
+ await conn.sendButton(m.chat, `_🎐Pilih Mode bot nya...\n_Off atau On di group_\n`,wm + '\n\n' + botdate, thumbdoc, [['ON','.boton'],['OFF','.botoff']], m, {
 contextInfo: { externalAdReply :{
                         mediaUrl: '',
                         mediaType: 2,
