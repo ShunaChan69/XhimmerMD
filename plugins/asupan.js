@@ -1,5 +1,5 @@
 let handler = async(m, { conn }) => {
-  await conn.sendFile(m.chat, pickRandom(asupan), 'asupan.mp4', `*${htki} BY FANGZ ${htka}*` , m)
+  await conn.sendFile(m.chat, pickRandom(asupan), 'asupan.mp4', `*${htki} BY VINZ ${htka}*` , m)
 }
 handler.help = ['asupan']
 handler.tags = ['tools']
