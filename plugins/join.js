@@ -8,35 +8,35 @@ const message = {
             document: { url: thumb },
             jpegThumbnail: await (await fetch(thumb)).buffer(), fileName: global.wm, mimetype: td, fileLength: '9999999', pageCount: '999',
             caption: titlebot,
-            footer: wm + '\n💬Support By Mr. Iqbal',
+            footer: wm + '\n💬Support By Vinz',
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: '🌹 YOUTUBE',
-                        url: 'https://youtube.com/channel/UCbDTyaAiUTWgoR-y-fH7dbw',
+                        displayText: 'YOUTUBE',
+                        url: 'Gaada Lah Kocak Luwh!',
                     }
                 },
                 {
                     urlButton: {
-                        displayText: '📞 Creator Bot',
-                        url: 'https://wa.me/6289513081384',
+                        displayText: 'Creator Bot',
+                        url: 'https://wa.me/6287734910547',
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: '📜MENU',
+                        displayText: 'MENU',
                         id: '.menu'
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: '🎀SPEED',
+                        displayText: 'SPEED',
                         id: '.ping'
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: '💸SEWA BOT',
+                        displayText: 'SEWA BOT',
                         id: '.sewa'
                     }
                 },
