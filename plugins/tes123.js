@@ -4,7 +4,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `Apa su❗ Jemb0t Kobong🔥`
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
-const message = {
+/*const message = {
             document: { url: thumb },
             jpegThumbnail: await (await fetch(thumb)).buffer(), fileName: global.wm, mimetype: td, fileLength: '9999999', pageCount: '999',
             caption: titlebot,
