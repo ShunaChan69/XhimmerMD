@@ -5,7 +5,7 @@ let Reg = /\|?(.)([.|] *?)([0-9])$/i
 
 let handler = async function (m, { text, usedPrefix, command }) {
 
-let info = `❏ 📮 Script xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐\n│• Script :\n│↳ Di GH Gua Ada Ntol\n│• Node_Modules:\n│↳ https://semawur.com/mwuPPdYT\n│↳ Ato tekan npm  i/yarn install di termux\n│• Base : \n│↳ github.com/bochilgaming/games-wabot-md/\n┗──────────═┅═──────────\n\n📍 N o t e : \n• BOT FREE FOR ALL!\n• Jangan Lupa kasih star, follow & kasih credit\n• Dilarang menjual Script Ini!\n• Jika menemukan bug di script, harap lapor owner\n• Github xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐: https://github.com/ShionMDv Jangan, lupa follow github\n• Bot ini free untuk digunakan di grup ini, kalo mau memasukan Bot ke grup lain minta izin owner dulu dgn cara BERDONASI:v`
+let info = `❏ 📮 Script xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐\n│• Script :\n│↳ Link Di Bawah!\n│• Node_Modules:\n│↳ https://semawur.com/mwuPPdYT\n│↳ Ato tekan npm  i/yarn install di termux\n│• Base : \n│↳ github.com/bochilgaming/games-wabot-md/\n┗──────────═┅═──────────\n\n📍 N o t e : \n• Free atau tidaknya terserah owner!\n• Jangan Lupa kasih star, follow & kasih credit\n• Dilarang menjual Script Ini!\n• Jika menemukan bug di script, harap lapor owner\n• Github xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐: https://github.com/ShionMDv/XhimmerMD Jangan, lupa follow github\n• Bot ini free untuk digunakan di grup ini, kalo mau memasukan Bot ke grup lain minta izin owner dulu dgn cara BERDONASI:v`
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
@@ -29,8 +29,8 @@ let buttonMessage= {
 'caption':info,
 'footer':botdate,
 'buttons':[
-{'buttonId':'.menu','buttonText':{'displayText':'👾 Menu'},'type':1},
-{'buttonId':'.salken','buttonText':{'displayText':'Sapa Bot👋🏻'},'type':1}
+{'buttonId':'.menu','buttonText':{'displayText':'Menu'},'type':1},
+{'buttonId':'.salken','buttonText':{'displayText':'Sapa Bot'},'type':1}
 ],
 'headerType':6}
     await conn.sendMessage(m.chat,buttonMessage, { quoted:m})
