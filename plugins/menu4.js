@@ -1,4 +1,4 @@
-let handler = async(m, { conn, args, usedPrefix }) => {
+/*let handler = async(m, { conn, args, usedPrefix }) => {
 	
 let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┃
