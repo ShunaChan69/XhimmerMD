@@ -40,7 +40,7 @@
 
 ---------
 
-## 🔥➾ [AMBIL SESSION DISINI TOD!](https://replit.com/@ShionMDv/Shion-QR-Code?v=1)
+## 🔥➾ [AMBIL FILE SESSION DISINI!](https://replit.com/@ShionMDv/XhimmerBot?v=1)
 
 -----------
 #### KELEBIHAN 📍
