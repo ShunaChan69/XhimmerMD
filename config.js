@@ -47,7 +47,7 @@ global.psaweria = 'Unavailable' //Saweria
 global.nomorbot = '6285602806360' //Nomor Bot mu
 global.nomorown = '6287734910547' //Nomormu
 global.namebot = 'xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐' //Nama bot mu
-global.nameown = '𝚅𝙸𝙽𝚉 𝙲𝚈𝚇' //Nama mu
+global.nameown = 'VinzCyx' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
@@ -55,7 +55,7 @@ global.owner = [
   ['6287734910547'], //Owner1
   ['6285848453523'], //Owner2
   ['6287734910547'], //Owner3
-  ['6287734910547', '𝚅𝙸𝙽𝚉 𝙲𝚈𝚇 ! 🔥', true] //Ini buat kamu!
+  ['6287734910547', 'VinzCyx ! 🔥', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,11 +115,11 @@ global.author = '                xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐' //Wm author
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/77b4a850362c8b21e2f19.jpg' //Thumbnail nya
-global.thumb2 = 'https://telegra.ph/file/99ba21696220ccffbf790.jpg' //Thumbnail 2
-global.thumbbc = 'https://telegra.ph/file/0a901e07ff14a97de9c67.jpg' //Image Bcgcb
+global.thumb = 'https://telegra.ph/file/172ab0270d1f4b4a8ac1f.jpg' //Thumbnail nya
+global.thumb2 = 'https://telegra.ph/file/765641aef5804ed27e13c.jpg' //Thumbnail 2
+global.thumbbc = 'https://telegra.ph/file/54d0314a38e068c37214b.jpg' //Image Bcgcb
 global.giflogo = 'https://telegra.ph/file/8ace5460d97b5a575a248.jpg' //Bebas
-global.intro = 'https://telegra.ph/file/c96780f3d897a07357481.jpg' //Tambahan Doang
+global.intro = 'https://telegra.ph/file/206494c6b8f1a1bae8166.jpg' //Tambahan Doang
 global.mwife = 'https://telegra.ph/file/1a2c5200b7f6cf20e7665.jpg' //Tambahan Doang
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -147,7 +147,7 @@ global.fpagedoc = '999' //Gausah di ganti.
 global.dmenut = '╭────━•〔' //top
 global.dmenub = '│ ⸙͎۪۫' //body
 global.dmenub2 = '│' //body for info cmd on Default menu
-global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus Id\n◐Mr.Iqbal\n◐Ario\n◐Ayank rere🥺\n◐Staff Codding\n◐Allah SWT\n◐Pemakai bot ini\n◐I love you\n\n*The one and only Rizki Iqbal Muladi*' //footer
+global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus Id\n◐Vinz\n◐Ario\n◐Ayank rere🥺\n◐Staff Codding\n◐Allah SWT\n◐Pemakai bot ini\n◐I love you\n\n*The one and only Vinz Cyx*' //footer
 
 // COMMAND MENU
 global.cmenut = '╭────━•〔' //top
@@ -166,8 +166,8 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = '*IG : r_iqbl02*'
-global.stickauth = `© Sullivan BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickpack = 'xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐'
+global.stickauth = `© Vinz\nCyx by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
