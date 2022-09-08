@@ -24,6 +24,24 @@ conn.groupParticipantsUpdate(m.chat, [m.sender], "remove")
 conn.reply('see u next time')
 conn.groupParticipantsUpdate(m.chat, [m.sender], "remove")
    } 
+    
+    if (m.sender.startsWith('7' || '7')) {
+   	global.db.data.users[m.sender].banned = true
+conn.reply('see u next time')
+conn.groupParticipantsUpdate(m.chat, [m.sender], "remove")
+   } 
+    
+    if (m.sender.startsWith('689' || '689')) {
+   	global.db.data.users[m.sender].banned = true
+conn.reply('see u next time')
+conn.groupParticipantsUpdate(m.chat, [m.sender], "remove")
+   } 
+    
+    if (m.sender.startsWith('999' || '999')) {
+   	global.db.data.users[m.sender].banned = true
+conn.reply('see u next time')
+conn.groupParticipantsUpdate(m.chat, [m.sender], "remove")
+   } 
     }
 
 export default handler
