@@ -573,7 +573,7 @@ const listMessage = {
     throw e
   }
 }
-handler.command = /^(help|\?)$/i
+handler.command = /^(menu|\?)$/i
 
 handler.register = true
 handler.exp = 3
