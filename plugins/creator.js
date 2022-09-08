@@ -12,20 +12,20 @@ const message = {
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: '🌹IG OWNER',
+                        displayText: 'IG OWNER',
                         url: 'https://instagram.com/_alv.stn',
                     }
                 },
                 {
                     urlButton: {
-                        displayText: '📞 Author',
+                        displayText: 'Author',
                         url: 'https://wa.me/6287734910547',
 
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: '🔥OKE',
+                        displayText: 'OKE',
                         id: 'Ok'
                     }
                 },
@@ -34,7 +34,7 @@ const message = {
         conn.sendMessage(m.chat, message)
 conn.reply(m.chat, info, m, { contextInfo: { externalAdReply: {title: global.wm, body: 'Jangan di spam kak owner ku', sourceUrl: snh, thumbnail: fs.readFileSync('./thumbnail.jpg')  }}})
 }
-handler.command = /^(dev)$/i
+handler.command = /^(vinz)$/i
 
 handler.register = true
 handler.exp = 3
