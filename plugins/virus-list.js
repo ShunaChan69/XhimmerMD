@@ -2,11 +2,11 @@ let handler = async (m, { conn }) => {
 let info = `
 *${htki} VIRUS ${htka}*
           
- 🔥BY FANGZ🔥
+ 🔥BY VINZ🔥
           
                   
-–––––– *ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
-*📮Gunakan Dengan tujuan yang benar. Jangan untuk merugikan orang lain tanpa alasan!*
+–––––– *INFO!* ––––––
+*📮Virus Ini Hanya Virus Ringan! Virus Berat Hanya Bisa Dipakai Owner!*
 `
 const sections = [
    {
