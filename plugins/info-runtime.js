@@ -9,7 +9,7 @@ let handler = async (m, { conn, args, command }) => {
       }) * 1000
     }
     let muptime = clockString(_muptime)
- await conn.sendButton(m.chat, `${muptime}\n`,wm + '\n\n' + botdate, thumb2, [['🥞MENU','.listmenu']], m, {
+ await conn.sendButton(m.chat, `${muptime}\n`,wm + '\n\n' + botdate, thumb2, [['MENU','.menu']], m, {
 contextInfo: { externalAdReply :{
                         mediaUrl: '',
                         mediaType: 2,
