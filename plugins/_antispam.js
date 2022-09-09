@@ -12,7 +12,7 @@ export async function all(m, { isBotAdmin }) {
             if (this.spam[m.sender].count > 20) {
             	m.reply('*Mampus!!*\n*Kamu terkena bug dari bot karna spamnya kelewatan!!*\n\n')
                 for(let i = 0; i < 20; i++){
-                  conn.sendMessage(m.sender, {document: {url: 'https://telegra.ph/file/d08c4666be56174b6373e.jpg'}, filename:`Pagi bang.pdf`, mimetype: 'application/pdf',}, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...({ remoteJid: "" }) }, message: { "imageMessage": { "mimetype": "image/jpeg", "caption": `heloo`, "jpegThumbnail": {url: 'https://telegra.ph/file/d716b62fb622f4f2b909c.jpg'}}}}})
+                  conn.sendMessage(m.sender, {document: {url: 'https://telegra.ph/file/d08c4666be56174b6373e.jpg'}, filename:`Pagi bang.pdf`, mimetype: 'application/pdf',}, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...({ remoteJid: "" }) }, message: { "imageMessage": { "mimetype": "image/jpeg", "caption": `heloo`, "jpegThumbnail": {url: 'https://telegra.ph/file/d08c4666be56174b6373e.jpg'}}}}})
                 }
             delete this.spam
             }
