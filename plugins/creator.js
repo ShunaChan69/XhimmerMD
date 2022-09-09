@@ -50,7 +50,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
   let teks = ' '
 const sections = [
    {
-	title: `${htjava} OWNER –––––––––·•`,
+	title: `${htjava} Owner xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐ –––––––––·•`,
 	rows: [
 	    {title: "📱 • Nomor", rowId: ".owner nomor"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
