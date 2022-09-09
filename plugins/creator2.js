@@ -113,7 +113,7 @@ const listMessage = {
   }
 }
 
-handler.help = ['owner', 'creaor']
+handler.help = ['owner', 'creator']
 handler.tags = ['main', 'info']
 handler.command = /^(bioowner)/i
 
