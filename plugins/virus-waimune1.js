@@ -4,11 +4,15 @@ let text = `${htki} *DOWNLOAD* ${htka}
      WhatsApp Imune ♨️
     
     --------Kelebihan--------
-• Anti Virtex✔️
-• Anti lag✔️
-• Fitur war✔️
-• Anti Bug troli, slayer Dll✔️
+• Anti Virtex(30%)✔️
+• Anti lag(68%)✔️
+• Fitur war(70%)✔️
+• Anti Bug troli, slayer(48%)✔️
 • No Password ✔️
+
+-------NOTE-------
+JANGAN DIGUNAKAN UNTUK TUJUAN YG MERUGIKAN
+TUNGGU AJA PASTI GW ACC KOK
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: '↗️Link', url: 'https://cararegistrasi.com/cMyXZwsK'}},
