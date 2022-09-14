@@ -19,7 +19,8 @@ let text = `${htki} *DOWNLOAD* ${htka}
 -------NOTE------
 Kirimkan Bukti Pembayaran Kepada Owner!
 Jangan Sebar Wa immune Kepada Orang-Orang
-File Berpassword! Minta Pass Kpd Owner!`
+File Berpassword! Minta Pass Kpd Owner!
+`
 const templateButtons = [
     {index: 1, urlButton: {displayText: '↗️Link', url: 'https://cararegistrasi.com/TyMuTxZ'}},
 ]
