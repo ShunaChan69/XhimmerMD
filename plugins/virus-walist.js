@@ -12,15 +12,15 @@ const sections = [
    {
     title: `✃ INFO`,
 	rows: [
-	    {title: "🔮WhatsApp Imune 1", rowId: '.waimune1', description: 'Jangan lupa Follow IG : r_iqbl02' },
-	    {title: "🔮WhatsApp Imune 2", rowId: '.waimune2', description: 'Jangan lupa Follow IG : r_iqbl02' },
-	{title: "🔮WhatsApp Gb Kebal 1", rowId: '.wagb1', description: 'Jangan lupa Follow IG : r_iqbl02' },
-	{title: "🔮WhatsApp Gb Kebal 2", rowId: '.wagb2', description: 'Download WhatsApp Kebal' },
+	    {title: "WhatsApp Imune 1", rowId: '.waimune1', description: 'Wa GB Free For All User' },
+	    {title: "WhatsApp Imune 2", rowId: '.waimune2', description: 'Wa GB Free For All' },
+	{title: "WhatsApp Gb Kebal 1", rowId: '.wagb1', description: 'Wa Immune Free' },
+	{title: "WhatsApp Gb Kebal 2", rowId: '.wagb2', description: 'Wa Immune For Premium User' },
 	]
     }, {
     title: `✃ BUY`,
 	rows: [
-	    {title: "😈Mr. Iqbal", rowId: '.owner', description: 'Pembuat Bot' },
+	    {title: "VinzCyx", rowId: '.owner', description: 'Pembuat Bot' },
 	    ]
         },
 ]
