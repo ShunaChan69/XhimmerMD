@@ -6,16 +6,20 @@ let text = `${htki} *DOWNLOAD* ${htka}
     --------Kelebihan--------
 • Anti Virtex✔️
 • Anti lag✔️
-• Fitur war✔️
+• Anti Bug Call✔️
 • Anti Bug troli, slayer Dll✔️
 • Anti kadaluarsa ✔️
-• Instantik✔️
+• Instantick✔️
 • Anti hapus pesan ✔️
 • Unclone Version✔️
 • Broadcast ✔️
 • Kebal All virus✔️
 • Mode pesawat✔️
-`
+
+-------NOTE------
+Kirimkan Bukti Pembayaran Kepada Owner!
+Jangan Sebar Wa immune Kepada Orang-Orang
+File Berpassword! Minta Pass Kpd Owner!`
 const templateButtons = [
     {index: 1, urlButton: {displayText: '↗️Link', url: 'https://cararegistrasi.com/TyMuTxZ'}},
 ]
