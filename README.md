@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://imgur.com/a/5lyTGjx.gif"
+    <img src="https://telegra.ph/file/172ab0270d1f4b4a8ac1f.jpg"
 </p>
 <h1 align="center">VinzBot - MD</h1>
 
