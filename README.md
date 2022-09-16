@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://imgur.com/XTjXjCV.gif"
+    <img src="https://imgur.com/gallery/XTjXjCV"
 </p>
 <h1 align="center">VinzBot - MD</h1>
 
